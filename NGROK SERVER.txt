@@ -1,0 +1,30 @@
+NGROK SERVER 
+
+AIRTABLE -> MAKE ->sends phone number-> NGROK + INDEX.JS 
+
+
+
+Get Conversation ID using the api .. then get the conv using Conversation ID in search bar in Elevenlabs ConvAI from the convesation history.
+
+Make one call to know how many conversations there are and which is the latest one .. i.e. is there any onversations . Yes . we have 100 converstaions.. and this is the order of conversations i.e. newest to oldest.
+Top is the newest
+
+2nd call .. get conversation id from the newest.
+
+
+Take conversation SUMMARY from ElevenLabs and send it to OpenAI
+
+OpenAI should have such a prompt such that its able to fill all the fields in gridview AirTable.
+
+Use make.com to store in Airtable.
+
+
+Property Type and market appraisal .. first prompt
+
+
+ChatGpt has to understand decision maker field Yes or No is whether he is buyer/seller 
+
+Zipcode in address
+
+
+Send that to OpenAI.
