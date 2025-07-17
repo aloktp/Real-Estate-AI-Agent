@@ -9,10 +9,3 @@ Twilio we used to have outbound phone calls
 
 
 In make.com, openAI i.e. ChatGpt API key and AirTable API key is mentioned.
-
-
-u@1104neyA
-
-favourite food - RICE
-first car - BEAT
-first job - THIRUVANANTHAPURAM
