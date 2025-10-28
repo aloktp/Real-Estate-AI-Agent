@@ -1,4 +1,3 @@
-
 AirTable to fetch phone number from records and to store more details like name, email id we obtain after call.
 JavaScript is the language used for the server client code
 ngrok for local server hosting
