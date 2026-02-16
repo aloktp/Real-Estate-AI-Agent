@@ -1,4 +1,4 @@
-# 🏡 Real Estate AI Agent – Outbound Call Automation
+# Real Estate AI Agent – Outbound Call Automation
 
 This project enables automated, human-like outbound calls to real estate leads using **ElevenLabs Conversational AI** and **Twilio**.
 It pulls lead data from **Airtable**, places outbound calls, handles real-time voice streaming, and logs results or triggers workflows via **Make.com**.
@@ -7,23 +7,23 @@ The backend is built entirely in **JavaScript** using **Fastify**.
 
 ---
 
-## ✨ Features
+## Features
 
-* **📞 Outbound Calling**: Initiate real phone calls via Twilio’s programmable voice API.
-* **🧠 AI Conversations**: Handle live voice interactions using ElevenLabs' WebSocket-based Conversational AI.
-* **📊 Airtable Integration**:
+* ** Outbound Calling**: Initiate real phone calls via Twilio’s programmable voice API.
+* ** AI Conversations**: Handle live voice interactions using ElevenLabs' WebSocket-based Conversational AI.
+* ** Airtable Integration**:
 
   * Fetch lead phone numbers before the call
   * Log captured details (name, email, etc.) after the call
-* **⚙️ Workflow Automation**: Use Make.com to build automations like CRM updates, SMS alerts, or email follow-ups.
-* **🌐 Hosting Options**:
+* **  Workflow Automation**: Use Make.com to build automations like CRM updates, SMS alerts, or email follow-ups.
+* **  Hosting Options**:
 
   * `ngrok` for local testing
   * `Replit` for serverless, always-on deployment
 
 ---
 
-## 🚀 Getting Started
+##   Getting Started
 
 ### 1. Clone the Repository
 
@@ -78,7 +78,7 @@ curl -X POST http://localhost:8000/make-outbound-call \
 
 ---
 
-## 🧠 AI Prompt Design
+##  AI Prompt Design
 
 The voice agent’s behavior is defined using a custom prompt passed to ElevenLabs’ Conversational AI over WebSocket.
 This prompt controls tone, flow, and data capture logic.
@@ -87,7 +87,7 @@ This prompt controls tone, flow, and data capture logic.
 
 ---
 
-## 🛠️ Tech Stack Summary
+##  Tech Stack Summary
 
 | Tool       | Purpose                                        |
 | ---------- | ---------------------------------------------- |
@@ -102,7 +102,7 @@ This prompt controls tone, flow, and data capture logic.
 
 ---
 
-## 📁 Key Project Files
+##  Key Project Files
 
 * `index.js` – Core server logic using Fastify and WebSockets
 * `.env` – Credentials and config (excluded from Git)
