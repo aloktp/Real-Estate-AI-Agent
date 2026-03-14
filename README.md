@@ -6,6 +6,10 @@ You can run the system locally with **ngrok** or host it on the cloud using **Re
 The backend is built entirely in **JavaScript** using **Fastify**.
 
 ---
+![UI Front End](images/UI_Front_End.png)
+![Airtable CRM](images/airtable.png)
+![Make Workflow 1](images/Make_1.png)
+![Make Workflow 2](images/Make_2.png)
 
 ## Features
 
