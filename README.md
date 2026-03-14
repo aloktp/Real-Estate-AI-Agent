@@ -7,9 +7,9 @@ The backend is built entirely in **JavaScript** using **Fastify**.
 
 ---
 ![UI Front End](images/UI_Front_End.png)
-![Airtable CRM](images/airtable.png)
-![Make Workflow 1](images/Make_1.png)
-![Make Workflow 2](images/Make_2.png)
+![Airtable CRM](images/airtable.jpg)
+![Make Workflow 1](images/Make_1.jpg)
+![Make Workflow 2](images/Make_2.jpg)
 
 ## Features
 
